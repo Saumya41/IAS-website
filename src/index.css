@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'DidotLTStd-Bold';
+  src: url('https://db.onlinewebfonts.com/t/d2d21b2af4d8a300f6ab19c2e2f3a18f.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('https://db.onlinewebfonts.com/t/962b4cc292177e7c0178e2fb30f4b647.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
